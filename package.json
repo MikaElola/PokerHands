@@ -27,6 +27,6 @@
     "enzyme-adapter-react-16": "^1.12.1"
   },
   "engines":{
-    "node": "6.3.0"
+    "node": "8.9.4"
   },
 }
